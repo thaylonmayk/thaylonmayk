@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thaylon</h1>
 <h3 align="center">I'm a bacharelor in information systems</h3>
 
-- 🔭 I’m currently working on Squadra Tecnologia as a developer analyst
+- 🔭 I’m currently working on Act Digital as a developer analyst
 
 - 🌱 I’m currently learning Software Architecture at PUC and English
 
